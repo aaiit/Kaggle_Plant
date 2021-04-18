@@ -1,7 +1,11 @@
 # Deep Learning in Agriculture
 
 ## Preprocessing 
-- [] []()
-- [] []()
+- [x] [vff](dfdf)
+- [ ] [dsd](dedede)
 
-## Models
+## Competitions
+
+  Accuracy | Competition Name | Model 
+--- | --- | --- 
+0 | f | f
