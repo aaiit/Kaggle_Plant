@@ -8,7 +8,7 @@
 
   Competition |notebook  | accuracy | Model 
 --- | --- | --- | ---
-[Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification)  | [tf.keras Inception-ResNet v2 97% acc](https://www.kaggle.com/aithammadiabdellatif/tf-keras-inception-resnet-v2-97-acc/edit) | 97% | Inception-ResNet V2 module in TensorFlow (tf.keras)
+[Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification)  | [tf.keras Inception-ResNet v2 97% acc](https://www.kaggle.com/aithammadiabdellatif/tf-keras-inception-resnet-v2-97-acc/edit) | 97% | [Inception-ResNet-v2](https://paperswithcode.com/method/inception-resnet-v2)
 
 ## References
 
