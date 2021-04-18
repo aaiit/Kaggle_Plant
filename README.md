@@ -1,1 +1,7 @@
-# deep learning in agriculture ‍🌾‍🌾‍🌾
+# Deep Learning in Agriculture
+
+## Preprocessing 
+- [] []()
+- [] []()
+
+## Models
