@@ -16,7 +16,35 @@ The following table shows the advanced algorithms used in the last competitions 
 - [x] [vff](dfdf)
 - [ ] [dsd](dedede)
 -->
+## Papers
 
+Task  |  Paper  | Data 
+---  | ---- | --- |
+land cover  |||
+land cover |||
+land cover |||
+land cover |||
+land cover |||
+crop classification |||
+crop classification |||
+crop classification |||
+crop classification |||
+crop classification |||
+animal counting  |||
+animal counting  |||
+animal counting  |||
+animal counting   |||
+animal counting   |||
+fruit counting  |||
+fruit counting  |||
+fruit counting |||
+fruit counting |||
+fruit counting |||
+Plant disease classification |||
+Plant disease classification |||
+Plant disease classification |||
+Plant disease classification |||
+Plant disease classification |||
 
 ## References
 
